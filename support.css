@@ -1,0 +1,17 @@
+.main{
+    max-width: 450px;
+    top: -200px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    background:rgb(2, 49, 88);
+    color: #dadada;
+    padding: 50px 60px 70px;
+    text-align: center;
+    border: 3px solid;
+    
+}
+a{
+    color: #dadada;
+}
+
